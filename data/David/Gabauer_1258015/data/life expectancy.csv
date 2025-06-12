@@ -1,0 +1,553 @@
+Country,Year,LifeExpectancy
+Australia,1885,49.05
+Australia,1895,52.95
+Australia,1905,57
+Australia,1921,60.97
+Australia,1922,62.83
+Australia,1923,61.68
+Australia,1924,62.48
+Australia,1925,63.17
+Australia,1926,62.88
+Australia,1927,62.84
+Australia,1928,62.91
+Australia,1929,63.08
+Australia,1930,64.9
+Australia,1931,65.32
+Australia,1932,65.6
+Australia,1933,65.43
+Australia,1934,64.79
+Australia,1935,65.05
+Australia,1936,65.19
+Australia,1937,65.74
+Australia,1938,65.76
+Australia,1939,65.73
+Australia,1940,66.16
+Australia,1941,66.04
+Australia,1942,65.79
+Australia,1943,66.33
+Australia,1944,67.96
+Australia,1945,68.38
+Australia,1946,67.92
+Australia,1947,68.52
+Australia,1948,68.47
+Australia,1949,69.09
+Australia,1950,69
+Australia,1951,68.6995
+Australia,1952,69.1125
+Australia,1953,69.6911
+Australia,1954,69.8595
+Australia,1955,70.1564
+Australia,1956,70.0366
+Australia,1957,70.3168
+Australia,1958,70.8606
+Australia,1959,70.445
+Australia,1960,70.8652
+Australia,1961,71.1348
+Australia,1962,70.9059
+Australia,1963,70.9606
+Australia,1964,70.5715
+Australia,1965,70.8021
+Australia,1966,70.6776
+Australia,1967,71.0472
+Australia,1968,70.6807
+Australia,1969,71.0719
+Australia,1970,70.6534
+Australia,1971,71.451
+Australia,1972,71.7682
+Australia,1973,72.0579
+Australia,1974,71.8491
+Australia,1975,72.7834
+Australia,1976,72.7871
+Australia,1977,73.4719
+Australia,1978,73.7403
+Australia,1979,74.327
+Australia,1980,74.5655
+Australia,1981,74.7827
+Australia,1982,74.7192
+Australia,1983,75.4402
+Australia,1984,75.5099
+Australia,1985,75.4303
+Australia,1986,76.0716
+Australia,1987,76.083
+Australia,1988,76.3443
+Australia,1989,76.1973
+Australia,1990,77.0414
+Australia,1991,77.4806
+Australia,1992,77.4731
+Australia,1993,78.006
+Australia,1994,77.8515
+Australia,1995,78.2569
+Australia,1996,78.3436
+Australia,1997,78.6256
+Australia,1998,79.0202
+Australia,1999,79.2769
+Australia,2000,79.6207
+Australia,2001,80.006
+Australia,2002,80.0515
+Australia,2003,80.4396
+Australia,2004,80.7334
+Australia,2005,81.0923
+Australia,2006,81.2581
+Australia,2007,81.2324
+Australia,2008,81.4267
+Australia,2009,81.7283
+Australia,2010,82.0132
+Australia,2011,82.0911
+Australia,2012,82.2966
+Australia,2013,82.5511
+Australia,2014,82.5182
+Australia,2015,82.605
+Australia,2016,82.8014
+Australia,2017,82.7184
+Australia,2018,83.2582
+Australia,2019,83.2412
+Australia,2020,83.6639
+Australia,2021,83.564
+Australia,2022,82.7662
+Australia,2023,83.9228
+Fiji,1950,51.7077
+Fiji,1951,52.2033
+Fiji,1952,52.6019
+Fiji,1953,53.3539
+Fiji,1954,54.214
+Fiji,1955,55.3057
+Fiji,1956,56.1583
+Fiji,1957,57.0686
+Fiji,1958,57.8284
+Fiji,1959,58.1586
+Fiji,1960,58.6024
+Fiji,1961,59.1019
+Fiji,1962,59.6535
+Fiji,1963,60.1554
+Fiji,1964,60.714
+Fiji,1965,61.4126
+Fiji,1966,61.5654
+Fiji,1967,61.442
+Fiji,1968,61.7187
+Fiji,1969,61.3974
+Fiji,1970,61.6519
+Fiji,1971,61.7396
+Fiji,1972,61.6301
+Fiji,1973,60.6493
+Fiji,1974,61.1945
+Fiji,1975,61.6888
+Fiji,1976,62.0996
+Fiji,1977,62.6912
+Fiji,1978,63.0652
+Fiji,1979,62.3053
+Fiji,1980,62.4058
+Fiji,1981,62.2552
+Fiji,1982,62.1953
+Fiji,1983,62.9156
+Fiji,1984,63.2381
+Fiji,1985,63.9982
+Fiji,1986,63.9614
+Fiji,1987,64.2778
+Fiji,1988,64.9506
+Fiji,1989,65.3856
+Fiji,1990,65.056
+Fiji,1991,65.4568
+Fiji,1992,65.4074
+Fiji,1993,65.5103
+Fiji,1994,65.7958
+Fiji,1995,66.007
+Fiji,1996,66.2018
+Fiji,1997,66.2927
+Fiji,1998,66.5364
+Fiji,1999,66.728
+Fiji,2000,66.1937
+Fiji,2001,66.2047
+Fiji,2002,65.4923
+Fiji,2003,65.6531
+Fiji,2004,65.8405
+Fiji,2005,65.9826
+Fiji,2006,66.1258
+Fiji,2007,66.1612
+Fiji,2008,66.3199
+Fiji,2009,66.3466
+Fiji,2010,66.7782
+Fiji,2011,66.8803
+Fiji,2012,65.8121
+Fiji,2013,66.5446
+Fiji,2014,66.5808
+Fiji,2015,66.4798
+Fiji,2016,66.657
+Fiji,2017,67.0596
+Fiji,2018,66.9645
+Fiji,2019,67.0088
+Fiji,2020,66.924
+Fiji,2021,64.9039
+Fiji,2022,67.1481
+Fiji,2023,67.3157
+Kiribati,1950,45.7212
+Kiribati,1951,45.8083
+Kiribati,1952,45.8952
+Kiribati,1953,45.9969
+Kiribati,1954,46.1239
+Kiribati,1955,46.2881
+Kiribati,1956,46.505
+Kiribati,1957,46.7773
+Kiribati,1958,47.1096
+Kiribati,1959,47.5039
+Kiribati,1960,47.9579
+Kiribati,1961,48.4685
+Kiribati,1962,49.0418
+Kiribati,1963,49.6881
+Kiribati,1964,50.3556
+Kiribati,1965,51.0282
+Kiribati,1966,51.7357
+Kiribati,1967,52.4543
+Kiribati,1968,53.1288
+Kiribati,1969,53.7627
+Kiribati,1970,54.3802
+Kiribati,1971,54.9339
+Kiribati,1972,55.3126
+Kiribati,1973,55.7898
+Kiribati,1974,56.1024
+Kiribati,1975,56.3579
+Kiribati,1976,56.562
+Kiribati,1977,56.0566
+Kiribati,1978,56.9236
+Kiribati,1979,57.1065
+Kiribati,1980,57.3034
+Kiribati,1981,57.5247
+Kiribati,1982,57.7732
+Kiribati,1983,58.0505
+Kiribati,1984,58.3568
+Kiribati,1985,58.7195
+Kiribati,1986,59.118
+Kiribati,1987,59.5756
+Kiribati,1988,60.0547
+Kiribati,1989,60.5386
+Kiribati,1990,61.0184
+Kiribati,1991,61.5021
+Kiribati,1992,61.9682
+Kiribati,1993,62.406
+Kiribati,1994,62.7966
+Kiribati,1995,63.146
+Kiribati,1996,63.4703
+Kiribati,1997,63.7971
+Kiribati,1998,64.1
+Kiribati,1999,64.3933
+Kiribati,2000,64.6739
+Kiribati,2001,64.9179
+Kiribati,2002,65.1233
+Kiribati,2003,65.2869
+Kiribati,2004,65.4157
+Kiribati,2005,65.5174
+Kiribati,2006,65.6014
+Kiribati,2007,65.6766
+Kiribati,2008,65.7455
+Kiribati,2009,65.8083
+Kiribati,2010,65.8595
+Kiribati,2011,65.8958
+Kiribati,2012,65.9081
+Kiribati,2013,65.8979
+Kiribati,2014,65.8687
+Kiribati,2015,65.831
+Kiribati,2016,65.7991
+Kiribati,2017,65.7871
+Kiribati,2018,65.8067
+Kiribati,2019,65.8663
+Kiribati,2020,65.2046
+Kiribati,2021,64.1482
+Kiribati,2022,66.2687
+Kiribati,2023,66.4731
+New Zealand,1948,68.81
+New Zealand,1949,68.95
+New Zealand,1950,69.2532
+New Zealand,1951,69.1286
+New Zealand,1952,69.3765
+New Zealand,1953,70.2136
+New Zealand,1954,70.3348
+New Zealand,1955,70.4792
+New Zealand,1956,70.7216
+New Zealand,1957,70.2553
+New Zealand,1958,70.8768
+New Zealand,1959,70.774
+New Zealand,1960,71.2235
+New Zealand,1961,70.9345
+New Zealand,1962,71.1997
+New Zealand,1963,71.2666
+New Zealand,1964,71.2952
+New Zealand,1965,71.2151
+New Zealand,1966,71.073
+New Zealand,1967,71.4375
+New Zealand,1968,71.088
+New Zealand,1969,71.475
+New Zealand,1970,71.2192
+New Zealand,1971,71.7167
+New Zealand,1972,71.8235
+New Zealand,1973,71.6751
+New Zealand,1974,71.9405
+New Zealand,1975,72.2002
+New Zealand,1976,72.3966
+New Zealand,1977,72.1345
+New Zealand,1978,73.0094
+New Zealand,1979,73.0509
+New Zealand,1980,72.8619
+New Zealand,1981,73.6324
+New Zealand,1982,73.7237
+New Zealand,1983,73.8291
+New Zealand,1984,74.3668
+New Zealand,1985,73.8761
+New Zealand,1986,74.1192
+New Zealand,1987,74.2074
+New Zealand,1988,74.4784
+New Zealand,1989,74.8878
+New Zealand,1990,75.4252
+New Zealand,1991,76.0789
+New Zealand,1992,76.1907
+New Zealand,1993,76.4987
+New Zealand,1994,76.9178
+New Zealand,1995,76.7853
+New Zealand,1996,76.8069
+New Zealand,1997,77.3441
+New Zealand,1998,78.1667
+New Zealand,1999,77.9107
+New Zealand,2000,78.6681
+New Zealand,2001,78.6615
+New Zealand,2002,78.8659
+New Zealand,2003,79.1414
+New Zealand,2004,79.3548
+New Zealand,2005,80.0308
+New Zealand,2006,80.0152
+New Zealand,2007,80.122
+New Zealand,2008,80.2457
+New Zealand,2009,80.545
+New Zealand,2010,81.0517
+New Zealand,2011,80.8422
+New Zealand,2012,81.1668
+New Zealand,2013,81.6119
+New Zealand,2014,81.4106
+New Zealand,2015,81.5866
+New Zealand,2016,82.0027
+New Zealand,2017,81.6053
+New Zealand,2018,81.8838
+New Zealand,2019,81.8322
+New Zealand,2020,82.6628
+New Zealand,2021,82.3003
+New Zealand,2022,81.0061
+New Zealand,2023,82.088
+Tonga,1950,48.3759
+Tonga,1951,49.7935
+Tonga,1952,51.158
+Tonga,1953,52.4497
+Tonga,1954,53.5616
+Tonga,1955,54.6605
+Tonga,1956,55.6628
+Tonga,1957,56.5055
+Tonga,1958,57.2092
+Tonga,1959,57.7655
+Tonga,1960,58.3149
+Tonga,1961,58.7574
+Tonga,1962,59.2976
+Tonga,1963,59.7702
+Tonga,1964,60.2507
+Tonga,1965,60.7198
+Tonga,1966,61.2099
+Tonga,1967,61.6918
+Tonga,1968,62.1609
+Tonga,1969,62.6963
+Tonga,1970,63.1819
+Tonga,1971,63.6074
+Tonga,1972,64.0606
+Tonga,1973,64.389
+Tonga,1974,64.8249
+Tonga,1975,65.1216
+Tonga,1976,65.4184
+Tonga,1977,65.6249
+Tonga,1978,65.8538
+Tonga,1979,66.0391
+Tonga,1980,66.186
+Tonga,1981,66.3574
+Tonga,1982,66.3269
+Tonga,1983,66.6518
+Tonga,1984,66.8061
+Tonga,1985,66.9282
+Tonga,1986,67.0577
+Tonga,1987,67.1889
+Tonga,1988,67.3208
+Tonga,1989,67.4451
+Tonga,1990,67.5392
+Tonga,1991,67.7487
+Tonga,1992,67.9269
+Tonga,1993,68.1572
+Tonga,1994,68.3705
+Tonga,1995,68.592
+Tonga,1996,68.8031
+Tonga,1997,69.0122
+Tonga,1998,69.2244
+Tonga,1999,69.4315
+Tonga,2000,69.6349
+Tonga,2001,69.7998
+Tonga,2002,70.0301
+Tonga,2003,70.2275
+Tonga,2004,70.433
+Tonga,2005,70.56
+Tonga,2006,70.7098
+Tonga,2007,70.8868
+Tonga,2008,71.0412
+Tonga,2009,70.9489
+Tonga,2010,71.3185
+Tonga,2011,71.4372
+Tonga,2012,71.5461
+Tonga,2013,71.6499
+Tonga,2014,71.7212
+Tonga,2015,71.851
+Tonga,2016,71.9505
+Tonga,2017,72.0657
+Tonga,2018,72.1691
+Tonga,2019,72.292
+Tonga,2020,72.3787
+Tonga,2021,72.1296
+Tonga,2022,72.6353
+Tonga,2023,72.8947
+Tuvalu,1950,40.0069
+Tuvalu,1951,40.8347
+Tuvalu,1952,41.6565
+Tuvalu,1953,42.4521
+Tuvalu,1954,43.3518
+Tuvalu,1955,44.1749
+Tuvalu,1956,45.0164
+Tuvalu,1957,45.8468
+Tuvalu,1958,46.699
+Tuvalu,1959,47.4968
+Tuvalu,1960,48.2611
+Tuvalu,1961,49.0201
+Tuvalu,1962,49.7787
+Tuvalu,1963,50.5803
+Tuvalu,1964,51.3359
+Tuvalu,1965,52.0863
+Tuvalu,1966,52.8092
+Tuvalu,1967,53.4806
+Tuvalu,1968,54.0721
+Tuvalu,1969,54.7296
+Tuvalu,1970,55.3475
+Tuvalu,1971,55.9715
+Tuvalu,1972,54.6942
+Tuvalu,1973,57.1974
+Tuvalu,1974,57.6931
+Tuvalu,1975,58.2532
+Tuvalu,1976,58.7728
+Tuvalu,1977,59.2008
+Tuvalu,1978,59.5707
+Tuvalu,1979,59.8794
+Tuvalu,1980,60.2173
+Tuvalu,1981,60.4889
+Tuvalu,1982,60.7465
+Tuvalu,1983,60.9378
+Tuvalu,1984,61.0521
+Tuvalu,1985,61.1367
+Tuvalu,1986,61.2072
+Tuvalu,1987,61.2863
+Tuvalu,1988,61.3666
+Tuvalu,1989,61.506
+Tuvalu,1990,61.6431
+Tuvalu,1991,61.8086
+Tuvalu,1992,60.2896
+Tuvalu,1993,62.1097
+Tuvalu,1994,62.317
+Tuvalu,1995,62.5047
+Tuvalu,1996,62.7086
+Tuvalu,1997,62.9417
+Tuvalu,1998,63.1619
+Tuvalu,1999,63.3457
+Tuvalu,2000,63.5356
+Tuvalu,2001,63.709
+Tuvalu,2002,63.8246
+Tuvalu,2003,63.8974
+Tuvalu,2004,63.9885
+Tuvalu,2005,64.0962
+Tuvalu,2006,64.2467
+Tuvalu,2007,64.4017
+Tuvalu,2008,64.5162
+Tuvalu,2009,64.693
+Tuvalu,2010,64.834
+Tuvalu,2011,64.9598
+Tuvalu,2012,65.0792
+Tuvalu,2013,65.1713
+Tuvalu,2014,65.2778
+Tuvalu,2015,65.3652
+Tuvalu,2016,65.51
+Tuvalu,2017,65.6826
+Tuvalu,2018,65.871
+Tuvalu,2019,66.1085
+Tuvalu,2020,66.3567
+Tuvalu,2021,65.8236
+Tuvalu,2022,66.8516
+Tuvalu,2023,67.1049
+Vanuatu,1950,43.9263
+Vanuatu,1951,42.1889
+Vanuatu,1952,45.2812
+Vanuatu,1953,45.8223
+Vanuatu,1954,46.4791
+Vanuatu,1955,47.0995
+Vanuatu,1956,47.6719
+Vanuatu,1957,48.2017
+Vanuatu,1958,48.7467
+Vanuatu,1959,49.2921
+Vanuatu,1960,49.8407
+Vanuatu,1961,50.3839
+Vanuatu,1962,50.9312
+Vanuatu,1963,51.4847
+Vanuatu,1964,51.9689
+Vanuatu,1965,52.5269
+Vanuatu,1966,53.0903
+Vanuatu,1967,53.6671
+Vanuatu,1968,54.2305
+Vanuatu,1969,54.7613
+Vanuatu,1970,55.3107
+Vanuatu,1971,55.8797
+Vanuatu,1972,56.3724
+Vanuatu,1973,57.0007
+Vanuatu,1974,57.5725
+Vanuatu,1975,58.1333
+Vanuatu,1976,58.664
+Vanuatu,1977,59.2467
+Vanuatu,1978,59.8813
+Vanuatu,1979,60.8931
+Vanuatu,1980,61.3222
+Vanuatu,1981,61.9496
+Vanuatu,1982,62.5403
+Vanuatu,1983,63.0755
+Vanuatu,1984,63.5185
+Vanuatu,1985,63.9273
+Vanuatu,1986,64.6178
+Vanuatu,1987,64.4392
+Vanuatu,1988,65.6987
+Vanuatu,1989,66.0234
+Vanuatu,1990,66.6837
+Vanuatu,1991,67.114
+Vanuatu,1992,67.4327
+Vanuatu,1993,67.7241
+Vanuatu,1994,67.9842
+Vanuatu,1995,68.1036
+Vanuatu,1996,68.1756
+Vanuatu,1997,68.3087
+Vanuatu,1998,68.3722
+Vanuatu,1999,67.9244
+Vanuatu,2000,68.586
+Vanuatu,2001,68.722
+Vanuatu,2002,68.8358
+Vanuatu,2003,68.9331
+Vanuatu,2004,68.9847
+Vanuatu,2005,69.1656
+Vanuatu,2006,69.1264
+Vanuatu,2007,69.1439
+Vanuatu,2008,69.3017
+Vanuatu,2009,69.422
+Vanuatu,2010,69.5703
+Vanuatu,2011,69.7287
+Vanuatu,2012,69.8983
+Vanuatu,2013,69.9861
+Vanuatu,2014,70.0433
+Vanuatu,2015,70.1632
+Vanuatu,2016,70.3975
+Vanuatu,2017,70.4996
+Vanuatu,2018,70.6259
+Vanuatu,2019,70.7834
+Vanuatu,2020,70.3845
+Vanuatu,2021,69.9518
+Vanuatu,2022,71.3016
+Vanuatu,2023,71.4769
